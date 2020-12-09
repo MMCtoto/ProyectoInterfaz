@@ -9,8 +9,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 /**
- * @author FLaco
- *login
+ * @author Miguel
+ * @see login
  */
 
 public class login extends AppCompatActivity {
@@ -31,7 +31,7 @@ public class login extends AppCompatActivity {
 
     }
     public void guest(View v) {
-        Intent i = new Intent(this, MainActivity.class);
+        Intent i = new Intent(this, Invitado.class);
         startActivity(i);
     }
 

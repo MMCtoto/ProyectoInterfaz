@@ -12,6 +12,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.graphics.Typeface;
 
+
 public class Splash extends AppCompatActivity {
 
     @Override
