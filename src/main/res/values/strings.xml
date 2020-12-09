@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProyectoInterfaz</string>
+    <string name="login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="guest">Guest</string>
+    <string name="Click">No tienes cuenta, haz un click y comienza a vivir</string>
+    <string name="orei">pele</string>
+    <string name="click">Haz click para empezartu viaje</string>
+    <string name="pass">contraseña</string>
+    <string name="correo">mail</string>
+    <string name="acceder">sign_up</string>
+    <string name="cancel">cancelar</string>
+    <string name="user">Usuario</string>
+    <string name="string_user">usu</string>
+    <string name="mail">correo</string>
+    <string name="accedido">Accede</string>
+    <string name="msg_no_name">introduce los datos solicitados</string>
+    <string name="estadio">TODO</string>
+    <string name="pelusa">TODO</string>
+    <string name="login_invitado">Accede Invitado</string>
+</resources>
