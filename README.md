@@ -5,3 +5,7 @@
 ![](img/main.png)
 ![](img/sign_up.png)
 ![](img/splash.png)
+![](img/foto1.png)
+![](img/foto2.png)
+![](img/foto3.png)
+![](img/foto4.png)

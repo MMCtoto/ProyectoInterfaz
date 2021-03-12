@@ -19,4 +19,10 @@
     <string name="estadio">TODO</string>
     <string name="pelusa">TODO</string>
     <string name="login_invitado">Accede Invitado</string>
+    <string name="app_bar_menu_share">Share</string>
+    <string name="app_bar_menu_bookmark">Bookmark</string>
+    <string name="app_bar_menu_search">Search</string>
+    <string name="debe_introducir">"Debe introducir datos en los campos "</string>
+    <string name="caracteristicas">Futbolista profesional</string>
+    <string name="Nombre">Cristiano Ronaldo</string>
 </resources>
